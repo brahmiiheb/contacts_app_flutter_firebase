@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809962240240",
+    "project_id": "contact-manager-ef654",
+    "storage_bucket": "contact-manager-ef654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809962240240:android:a71c94a12780c269982a35",
+        "android_client_info": {
+          "package_name": "com.android.tools"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtNvh0csH4odfO5lzMtJmTg4ogzBCsHL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
